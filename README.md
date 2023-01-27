@@ -5,4 +5,4 @@ demo Open [http://62fe.ombagoes.com](http://62fe.ombagoes.com)
 ![ScreenShot](screenshot-BusinessList.jpg)
 
 # Detail
-![ScreenShot](screenshot-BusinessDetail)
+![ScreenShot](screenshot-BusinessDetail.jpg)
